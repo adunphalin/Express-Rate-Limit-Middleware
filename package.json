@@ -1,0 +1,7 @@
+{
+  "name": "express-rate-limit-middleware",
+  "version": "1.0.0",
+  "description": "Simple IP-based rate limiting middleware for Express.js",
+  "main": "src/rateLimit.js",
+  "license": "MIT"
+}
